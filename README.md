@@ -4,8 +4,9 @@ Repositorio del curso de onboarding y formación práctica para nuevos miembros 
 
 ## Estructura
 - `B0/` Fundamentos + herramientas (Git/GitHub, Python primer, telemetría)
-- `B1/` Mission Analysis + orbital basics (por añadir)
-- `B2/` Subsistemas (por añadir)
+- `B1/` 𝙇𝙤𝙖𝙙𝙞𝙣𝙜…
+- `B2/` 𝙇𝙤𝙖𝙙𝙞𝙣𝙜…
+- `B3/` 𝙇𝙤𝙖𝙙𝙞𝙣𝙜…
 - `shared/` Recursos comunes (plantillas, runbooks globales)
 
 ## Cómo empezar (nuevo miembro)
@@ -29,7 +30,7 @@ python3 B0/src/telemetry/tm_analyze.py --in B0/data/tm_case_01.csv
 - No subir archivos grandes (datasets, binarios, vídeos).
 
 ## Bloque 0 (guía y entregas)
-- Guía (LaTeX): `B0/docs/block0_guide.tex` (compilar para PDF)
+- Guía: `B0/docs/block0_guide.pdf`
 - Rúbrica: `B0/docs/rubric_block0.md`
 - B0.1 (notes): `B0/docs/cubesat_notes/README.md`
 - Runbook B0.2 (Git/PR): `B0/docs/runbooks/rb_b0_2_git_pr.md`
