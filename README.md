@@ -35,3 +35,18 @@ python3 B0/src/telemetry/tm_analyze.py --in B0/data/tm_case_01.csv
 - B0.1 (notes): `B0/docs/cubesat_notes/README.md`
 - Runbook B0.2 (Git/PR): `B0/docs/runbooks/rb_b0_2_git_pr.md`
 - Runbook B0.3 (telemetría): `B0/docs/runbooks/rb_b0_3_tm.md`
+
+## Prerrequisitos
+
+### 1) Instalar Visual Studio Code (VS Code)
+Descárgalo desde la web oficial e instálalo para tu sistema operativo.
+
+### 2) Instalar Python 3
+Instala Python desde la web oficial (recomendado). Asegúrate de que `python3` funciona en terminal.
+
+### 3) Tutorial recomendado (VS Code + Python)
+Sigue el tutorial oficial de VS Code para configurar Python (incluye extensión, venv y ejecución).
+
+VS Code (descarga oficial): https://code.visualstudio.com/download
+Python (descarga oficial):  https://www.python.org/downloads/
+Tutorial oficial VS Code + Python: https://code.visualstudio.com/docs/python/python-tutorial
