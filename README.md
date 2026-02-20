@@ -31,7 +31,6 @@ python3 B0/src/telemetry/tm_analyze.py --in B0/data/tm_case_01.csv
 
 ## Bloque 0 (guía y entregas)
 - Guía: `B0/docs/block0_guide.pdf`
-- Rúbrica: `B0/docs/rubric_block0.md`
 - B0.1 (notes): `B0/docs/cubesat_notes/README.md`
 - Runbook B0.2 (Git/PR): `B0/docs/runbooks/rb_b0_2_git_pr.md`
 - Runbook B0.3 (telemetría): `B0/docs/runbooks/rb_b0_3_tm.md`
