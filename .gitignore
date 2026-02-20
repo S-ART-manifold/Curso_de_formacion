@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+
+# outputs (keep only .gitkeep)
+B0/outputs/*
+!B0/outputs/.gitkeep
+
+# OS / editors
+.DS_Store
+*.swp
+.vscode/
+.idea/
