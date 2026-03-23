@@ -29,13 +29,13 @@ import pandas as pd
 # ============================================================
 # PARÁMETROS DEL ALUMNO (MODIFICA SOLO ESTO)
 # ============================================================
-EPS_LOW_VOLTAGE_V = 3.5          # ejemplo: prueba 3.6
-EPS_LOW_MIN_DURATION_S = 10      # ejemplo: prueba 5 o 20
+EPS_LOW_VOLTAGE_V = 3.6          # He cambiado el umbral a 3.6 V
+EPS_LOW_MIN_DURATION_S = 5       # He cambiado el tiempo mínimo a 5 s
 
-THERMAL_HIGH_TEMP_C = 45.0       # ejemplo: prueba 44.0 o 46.0
+THERMAL_HIGH_TEMP_C = 45.0       # he cambiado el umbral a 45 ºC
 THERMAL_HIGH_MIN_DURATION_S = 20
 
-COMMS_DROP_RSSI_DBM = -85.0      # ejemplo: prueba -90.0
+COMMS_DROP_RSSI_DBM = -90.0      # He cambiado el umbral a -90 dBm
 COMMS_DROP_MIN_DURATION_S = 5
 # ============================================================
 
