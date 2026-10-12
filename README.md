@@ -4,8 +4,8 @@ Repositorio del curso de onboarding y formación práctica para nuevos miembros 
 
 ## Estructura
 - `B0/` Fundamentos + herramientas (Git/GitHub, Python primer, telemetría)
-- `B1/` 𝙇𝙤𝙖𝙙𝙞𝙣𝙜…
-- `B2/` 𝙇𝙤𝙖𝙙𝙞𝙣𝙜…
+- `B1/` Introducción a la Mecánica Orbital
+- `B2/` Fundamentos de la Ingeniería de Sistemas ([guía](B2/docs/guia_bloque2.pdf))
 - `B3/` 𝙇𝙤𝙖𝙙𝙞𝙣𝙜…
 - `shared/` Recursos comunes (plantillas, runbooks globales)
 
